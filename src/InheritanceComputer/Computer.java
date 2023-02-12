@@ -15,7 +15,7 @@ package InheritanceComputer;
         }
 
         public String toString(){//overriding the toString() method
-            return " Brandname:" + brandName + ", GB:" + GB + ", this device has an OLEDScreen:" + OLEDScreen;
+            return "Brandname:" + brandName + ", GB:" + GB + ", this device has an OLEDScreen:" + OLEDScreen;
         }
 
         //2 methods
