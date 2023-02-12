@@ -4,7 +4,7 @@ package InheritanceComputer;
 
         //1 additional property
         private String smartPhoneColor;
-        public SmartPhone(String brandName, double GB, boolean OLEDScreen) {
+        public SmartPhone(String brandName, int GB, boolean OLEDScreen) {
         super(brandName, GB, OLEDScreen);
     }
 

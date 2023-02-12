@@ -9,5 +9,6 @@ package InheritanceComputer;
             System.out.println(ASUSVivobook);
             System.out.println(Iphone14);
             System.out.println("");
+
         }
     }
